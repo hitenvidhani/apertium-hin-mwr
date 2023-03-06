@@ -1,0 +1,10 @@
+{
+    "hin-mwr": {
+        "input": "hin-mwr-input.txt",
+        "mode": "hin-mwr"
+    },
+    "mwr-hin": {
+        "input": "mwr-hin-input.txt",
+        "mode": "mwr-hin"
+    }
+}
