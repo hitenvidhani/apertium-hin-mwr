@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet>>ॊऀँंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎॏॐ॒॑॓॔ॕॖॗक़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣॱॲॳॴॵॶॷॸॹॺॻॼॽॾ</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -103,8 +103,23 @@
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+      <e><p><l>पैसा<s n="n"/></l><r>पैसा<s n="n"/></r></p></e>
+      <e><p><l>नमस्ते<s n="n"/></l><r>खम्मा घणी<s n="n"/></r></p></e>
+      <e><p><l>मेरे<s n="prn"/></l><r>म्हारो<s n="prn"/></r></p></e>
+      <e><p><l>गांव<s n="n"/></l><r>गांव<s n="n"/></r></p></e>
+      <e><p><l>आसमान<s n="n"/></l><r>आभ<s n="n"/></r></p></e>
+      <e><p><l>अच्छा<s n="n"/></l><r>आछौ<s n="n"/></r></p></e>
+      <e><p><l>आग<s n="n"/></l><r>बास्ते<s n="n"/></r></p></e>
+      <e><p><l>कपड़ा<s n="n"/></l><r>घाबा<s n="n"/></r></p></e>
+      <e><p><l>दोस्त<s n="n"/></l><r>भायलो<s n="n"/></r></p></e>
+      <e><p><l>धूप<s n="n"/></l><r>तावड़ो<s n="n"/></r></p></e>
+      <e><p><l>खाना<s n="n"/></l><r>जीमना<s n="n"/></r></p></e>
+      <e><p><l>मनाना<s n="n"/></l><r>बैलाना<s n="n"/></r></p></e>
+      <e><p><l>काट<s n="n"/></l><r>बटको<s n="n"/></r></p></e>
    </section>
 </dictionary>
+<!--<e><p><l><s n="n"/>नमस्ते</l><r><s n="n"/>खम्मा घणी</r></p></e>
+-->
 
 <!--
 Resources:
